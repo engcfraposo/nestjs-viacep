@@ -2,7 +2,7 @@
   "name": "nestjs-viacep",
   "version": "1.0.0",
   "homepage": "https://github.com/engcfraposo/nestjs-viacep",
-  "description": "Este módulo fornece uma solução de consulta de endereços através do IBGE. Ele permite que os usuários pesquisem endereços com base em informações como CEP, UF, cidade, logradouro, etc. Além disso, o módulo oferece uma interface fácil de usar e retorna resultados precisos e atualizados.",
+  "description": "Este módulo fornece uma solução de consulta de endereços através do viacep. Ele permite que os usuários pesquisem endereços com base em informações como CEP, UF, cidade, logradouro, etc. Além disso, o módulo oferece uma interface fácil de usar e retorna resultados precisos e atualizados.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
