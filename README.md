@@ -16,7 +16,7 @@ Para usar o ViaCepService precisamos importar o seguinte modulo
 
 
 ```ts
-import { ViaCepService } from 'nestjs-viacep';
+import { ViaCepService } from 'nest-via-cep';
 
 ```
 
